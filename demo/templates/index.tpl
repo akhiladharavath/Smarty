@@ -1,5 +1,6 @@
 hello
 hi
+stash
 {$title}
  
  
